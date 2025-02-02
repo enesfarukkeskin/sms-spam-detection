@@ -145,6 +145,23 @@ Results on test set (2 February 2025):
 - Recall (Spam): 98.08%
 - F1-Score: 97.21%
 
+Sample Predictions:
+------------------------------
+Message: URGENT! You have won a 1 week FREE membership in o...
+Prediction: Spam
+
+Message: Hey, what time are you coming home for dinner?...
+Prediction: Not Spam
+
+Message: Congratulations! You've been selected for a free i...
+Prediction: Spam
+
+Message: Kampanya! Tüm ürünlerde %50 indirim fırsatı, hemen...
+Prediction: Spam
+
+Message: Akşam yemeğinde ne yiyelim?...
+Prediction: Not Spam
+
 ## Web Interface Features
 
 1. Main Page (`/`)
