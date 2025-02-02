@@ -106,6 +106,9 @@ python app.py
    - Click "Check Message" to get the prediction
    - Sample messages are provided for testing
 
+![Home Page](templates/main_page.png)
+
+
 2. **Results Page**:
    - Displays the original message
    - Shows the prediction (Spam/Not Spam)
