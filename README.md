@@ -115,6 +115,7 @@ python app.py
    - Includes confidence score
    - Option to check another message
 
+![Result Page](templates/result_page.png)
 ### 3. API Usage
 
 Make predictions via API:
